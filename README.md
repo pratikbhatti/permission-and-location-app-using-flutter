@@ -1,16 +1,16 @@
-# demo40
+# Permission And Location App (Using Flutter)
 
-A new Flutter project.
+This app is a permission and location app. This app is made in flutter technology. using getx state management. 
 
-## Getting Started
+# Interface Image & Video
+<h3> Permission And Locationn App Screen Images </h3>
+<img src="https://user-images.githubusercontent.com/125340601/220835175-25aafe28-ace7-4158-97aa-34e7b25e48da.png" weight="500" height="600"/> <img src="https://user-images.githubusercontent.com/125340601/220835271-8bfa86f2-6cea-415f-a410-f214fb878d05.png" weight="500" height="600"/> <img src="https://user-images.githubusercontent.com/125340601/220835360-dd994ee3-a22c-4bef-bd3a-ae0998b492b6.png" weight="500" height="600"/>
+<h3> Permission And Locationn App Screen Video </h3>
+<img src="https://user-images.githubusercontent.com/125340601/220835406-64e18ceb-e7df-4563-8924-340e336846cd.mp4" weight="450" height="550"/>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
